@@ -1,0 +1,25 @@
+body {
+   background-color: pink; 
+}
+table {
+   margin: auto;
+   width: 800px;
+   height: 300px;
+}
+.tabl {
+   color: red;
+   font-family: 'Gemunu Libre', sans-serif;
+}
+th {
+   background-color: slategray;
+   color: snow;
+
+}
+.item {
+   background-color: red;
+   
+}
+td {
+   color: snow;
+   background-color: rgb(168, 168, 168);
+}

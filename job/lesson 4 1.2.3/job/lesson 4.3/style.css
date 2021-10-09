@@ -1,0 +1,57 @@
+body {
+    background: url(./img/osen_derevya_les_tropinka_110700_3840x2400.jpg)
+}
+.table {
+    border: white;
+}
+img {
+    width: 150px;
+}
+.row_1 td:hover {
+    border: 2px solid black;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    background-color: rgba(0, 81, 255, 0.158);
+
+}
+.row_2 td:hover {
+    border: 2px solid black;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    background-color: rgb(0, 81, 255);
+    
+}
+.row_3 td:hover {
+    border: 2px solid black;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    background-color: rgb(0, 81, 255);
+}
+.row_1 td {
+    background-color: rgb(0, 81, 255);
+    font-size: 25px;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+.row_3 td {
+    font-size: 25px;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 60px;
+}

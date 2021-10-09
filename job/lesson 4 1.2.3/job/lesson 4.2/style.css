@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+.table {
+    width: 1000px;
+    height: 1000px;
+    color: black;
+    background-color: blanchedalmond;
+}
+.h1 {
+    color: red;
+}
+th {
+    background-color: rgba(165, 42, 42, 0.644);
+}
+.tdcolor {
+    background-color: rgba(165, 42, 42, 0.767);
+}
+.td100 {
+    background-color: rgb(189, 28, 28);
+}
+.h1_2 {
+    color: white;
+}
+.downlink {
+    background-color: rgba(165, 42, 42, 0.767);
+}
+a {
+    text-decoration: none;
+}
+.trcolor {
+    color: rgba(255, 255, 0, 0.603);
+}

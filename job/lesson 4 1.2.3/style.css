@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(228, 209, 209);
+}
+a {
+    text-decoration: none;
+}
+.tr_1 td:hover{
+    border: 2px solid black;
+    transition: all 0.5s;
+    
+}
+td {
+    height: 600px;
+    width: 200px;
+}

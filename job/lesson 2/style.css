@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(160, 156, 151);
+}
+.name{
+    color: darkkhaki;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;    
+}
+.hobby{
+    color: darkkhaki;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact{
+    color: darkkhaki;
+    font-family: 'Montserrat', sans-serif;
+}
+.socnet{
+    color: darkkhaki;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
+ul{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
+ol{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    
+}
