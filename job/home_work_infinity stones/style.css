@@ -1,0 +1,61 @@
+html{
+    background: url(./img/2.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.centerText {
+    color: black
+}
+table {
+    background-color: rgb(24, 209, 154);
+    opacity: 0.8;
+    width: 1400px;
+    height: 1300px;
+}
+.photo {
+    width: 760px;
+    height: 360px;
+    border-radius: 60%;
+    display: block;
+    margin: 0 auto;
+}
+.tdphoto1 {
+    width: 200px;
+    height: 180px;
+}
+.tdphoto2 {
+    width: 200px;
+    height: 180px;
+}
+.tdphoto3 {
+    width: 200px;
+    height: 180px;
+}
+.tdphoto4 {
+    width: 200px;
+    height: 180px;
+}
+.tdphoto5 {
+    width: 200px;
+    height: 180px;
+}
+.tdphoto6 {
+    width: 200px;
+    height: 180px;
+}
+th {
+    color: black;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+td {
+    color: black;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+}

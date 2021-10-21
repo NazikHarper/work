@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(197, 123, 123);
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+.text img {
+    max-width: 100%;
+}
+.text_1 {
+    width: 400px;
+    height: 200px;background-color: yellowgreen;
+    overflow: scroll;
+}
+.fa-comment-dollar {
+    font-size: 50px;
+    color: yellow;
+    
+}
